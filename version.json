@@ -1,0 +1,11 @@
+{
+    "update_title":"Alpha Base Test Update 0.1",
+    "name_small": "Alpha test 0.1",
+    "name_big": "Alpha Test 0.1_test_alpha",
+    "major": 0,
+    "minor": 1,
+    "changes": {
+        "major": "N/A",
+        "minor": "Created main files"
+    }
+}
